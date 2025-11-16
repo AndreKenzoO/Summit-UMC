@@ -12,28 +12,28 @@ Comparação por acurácia, desvio padrão e matrizes de confusão
 # Instruções de Execução (Google Colab)
 Método 1 — Executar direto no Colab
 
-Abra o Google Colab:
-https://colab.research.google.com/
+  Abra o Google Colab:
+  https://colab.research.google.com/
 
-Clique em:
-Arquivo → Fazer upload do notebook
+  Clique em:
+  Arquivo → Fazer upload do notebook
 
-Envie o arquivo:
-modelo_svm_diabetes.ipynb (localizado na pasta /codigo)
+  Envie o arquivo:
+  modelo_svm_diabetes.ipynb (localizado na pasta /codigo)
 
-Execute todas as células com:
-Ambiente → Executar tudo
+  Execute todas as células com:
+  Ambiente → Executar tudo
 
-O código já está configurado para:
+  O código já está configurado para:
 
-Baixar automaticamente o dataset do GitHub
+  Baixar automaticamente o dataset do GitHub
 
-Realizar pré-processamento
+  Realizar pré-processamento
 
-Fazer GridSearchCV
+  Fazer GridSearchCV
 
-Gerar gráficos das matrizes de confusão
+  Gerar gráficos das matrizes de confusão
 
-Exibir acurácias, desvios padrão e conclusão
+  Exibir acurácias, desvios padrão e conclusão
 
-Nada precisa ser configurado manualmente.
+  Nada precisa ser configurado manualmente.
