@@ -15,25 +15,32 @@ Método 1 — Executar direto no Colab
   Abra o Google Colab:
   https://colab.research.google.com/
 
+ 
   Clique em:
   Arquivo → Fazer upload do notebook
 
+  
   Envie o arquivo:
   modelo_svm_diabetes.ipynb (localizado na pasta /codigo)
 
+ 
   Execute todas as células com:
   Ambiente → Executar tudo
 
-  O código já está configurado para:
 
+  O código já está configurado para:
   Baixar automaticamente o dataset do GitHub
 
   Realizar pré-processamento
 
+  
   Fazer GridSearchCV
 
+ 
   Gerar gráficos das matrizes de confusão
 
+ 
   Exibir acurácias, desvios padrão e conclusão
 
+  
   Nada precisa ser configurado manualmente.
